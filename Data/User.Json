@@ -1,0 +1,31 @@
+{
+  "id": "1",
+  "username": "nilmie",
+  "firstName": "Nilmie",
+  "lastName": "Gamhew",
+  "email": "nilmie@mihc.com",
+  "password": "ABC1234",
+  "phone": "012452212",
+  "userStatus": "0",
+  "Post_User_URL":"https://petstore.swagger.io/v2/user",
+  "Get_User_byUserName":"https://petstore.swagger.io/v2/user/nilmie",
+  "Get_User_Login":"https://petstore.swagger.io/v2/user/login?username=nilmie&password=ABC1234",
+  "Get_User_Logout":"https://petstore.swagger.io/v2/user/logout",
+  "Put_User":"https://petstore.swagger.io/v2/user/nilmie",
+  "Delete_User":"https://petstore.swagger.io/v2/user/nilmie",
+  "Post_User_createWithList":"https://petstore.swagger.io/v2/user/createWithList",
+  "Post_User_createWithArray":"https://petstore.swagger.io/v2/user/createWithArray",
+
+  
+  "updateid": "1",
+  "updateusername": "nilmie",
+  "updatefirstName": "NilmieR",
+  "updatelastName": "Gam",
+  "updateemail": "nilmiupdat@gmail.com",
+  "updatepassword": "xyz1234",
+  "updatephone": "0124544",
+  "updateserStatus": "0"
+
+
+
+}

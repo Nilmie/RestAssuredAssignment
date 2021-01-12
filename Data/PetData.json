@@ -1,0 +1,11 @@
+{
+	"PetURL": "https://petstore.swagger.io/v2/pet",
+	"Get_Pet_1": "https://petstore.swagger.io/v2/pet/1",
+        "Post_Pet": "https://petstore.swagger.io/v2/pet",
+        "Put_Pet": "https://petstore.swagger.io/v2/pet",
+	"Post_PetByID": "https://petstore.swagger.io/v2/pet/2",
+        "Pet_Delete": "https://petstore.swagger.io/v2/pet/12345",
+	"GetPet_bystatus": "https://petstore.swagger.io/v2/pet/findByStatus?status=available"
+	"Post_uploadimage": "https://petstore.swagger.io/v2/pet/12345/uploadImage",
+	"photoUrls": "D:/Selenium/Rest/RestAssuredAssignment/Data/Dog.jpg"
+}

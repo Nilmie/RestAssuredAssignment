@@ -1,0 +1,13 @@
+{
+	"OrderURL":"https://petstore.swagger.io/v2/store/order",
+	"id": "2",
+	"petId": "9222968140496919449",
+	"quantity": "2",
+	"shipDate": "2021-01-08",
+	"status": "placed",
+	 "complete": "1"
+	"Get_OrdeByID":"https://petstore.swagger.io/v2/store/order/2",
+	"Delete_OrdeByID":"https://petstore.swagger.io/v2/store/order/2",
+	"Get_Inventory":"https://petstore.swagger.io/v2/store/inventory",
+}
+
